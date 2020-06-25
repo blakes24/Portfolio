@@ -1,0 +1,86 @@
+/* heading styles */
+h1 {
+	font-size: 60px;
+}
+
+h2 {
+	color: #0b3142;
+}
+
+h3 {
+	font-size: 24px;
+}
+
+h1,
+h2,
+h3 {
+	text-align: center;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* p {
+	font-size: 18px;
+} */
+/* header and footer styles */
+header,
+footer {
+	background-color: #0b3142;
+	color: #eff7ff;
+	text-align: center;
+	padding: 5px;
+}
+/* main background color */
+main {
+	background-color: #eff7ff;
+	font-size: 18px;
+}
+/* center content */
+.wrapper {
+	margin: auto;
+	width: 50%;
+}
+/* padding to create space between article content and header/footer */
+article {
+	padding: 30px;
+}
+/* create space betweeen sections */
+section {
+	margin: 30px;
+}
+/* lines between sections */
+hr {
+	border: 1px solid #0b3142;
+}
+/* image styles */
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	border: 5px solid #0b3142;
+	border-radius: 10px;
+}
+/* embeded map styles */
+iframe {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 300px;
+	width: 100%;
+}
+/* link styles */
+a:link {
+	color: #348aa7;
+}
+
+a:visited {
+	color: #748067;
+}
+
+a:hover {
+	color: #ac3931;
+}
+
+a:active {
+	color: #0f8b8d;
+}
