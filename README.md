@@ -1,1 +1,3 @@
 # Portfolio
+
+Thinkful portfolio assignment 
