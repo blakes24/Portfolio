@@ -41,7 +41,7 @@ main {
 }
 /* padding to create space between article content and header/footer */
 article {
-	padding: 30px;
+	padding: 60px 30px;
 }
 /* create space betweeen sections */
 section {
