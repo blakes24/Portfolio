@@ -18,9 +18,6 @@ h3 {
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-/* p {
-	font-size: 18px;
-} */
 /* header and footer styles */
 header,
 footer {
@@ -43,10 +40,7 @@ main {
 article {
 	padding: 60px 30px;
 }
-/* create space betweeen sections */
-section {
-	margin: 30px;
-}
+
 /* lines between sections */
 hr {
 	border: 1px solid #0b3142;
